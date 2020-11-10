@@ -178,21 +178,11 @@
 
         </div>
       </div>
-      <!-- <div class="col-lg-6">
+      <div class="col-lg-6">
         {{ $map := .Site.Params.map }}
         <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
         </div>
-      </div> -->
-      
-{{"<!-- Google Map -->" | safeHTML}}
-<div class="col-lg-6">
-	<div id="map" data-lat="{{ .Site.Params.map.latitude }}"
-	data-long="{{ .Site.Params.map.longitude }}"
-	data-pin="{{ .Site.Params.map.pinImage | absURL }}"
-	
-	data-zoom="18"></div>
-</div>
-
+      </div>
     </div>
   </div>
 </section>
