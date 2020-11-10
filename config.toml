@@ -1,4 +1,4 @@
-baseURL = "https://aesopos.co.kr"
+baseURL = "https://aesopos.co.kr" 
 languageCode = "ko"
 paginate = 6
 theme = "portio"
