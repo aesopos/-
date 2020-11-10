@@ -183,16 +183,16 @@
         <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
         </div>
       </div> -->
-      {{ if .Site.Params.map.enable }}
+      
 {{"<!-- Google Map -->" | safeHTML}}
 <div class="col-lg-6">
 	<div id="map" data-latitude="{{ .Site.Params.map.map_latitude }}"
 	data-longitude="{{ .Site.Params.map.map_longitude }}"
-	data-marker="{{ .Site.Params.map.map_marker | absURL }}"
+	data-marker="{{ .Site.Params.map.pinImage | absURL }}"
 	data-marker-name="{{ .Site.Title }}"
 	data-zoom="18"></div>
 </div>
-{{ end }}
+
     </div>
   </div>
 </section>
