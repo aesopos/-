@@ -186,10 +186,10 @@
       
 {{"<!-- Google Map -->" | safeHTML}}
 <div class="col-lg-6">
-	<div id="map" data-latitude="{{ .Site.Params.map.map_latitude }}"
-	data-longitude="{{ .Site.Params.map.map_longitude }}"
-	data-marker="{{ .Site.Params.map.pinImage | absURL }}"
-	data-marker-name="{{ .Site.Title }}"
+	<div id="map" data-lat="{{ .Site.Params.map.latitude }}"
+	data-long="{{ .Site.Params.map.longitude }}"
+	data-pin="{{ .Site.Params.map.pinImage | absURL }}"
+	
 	data-zoom="18"></div>
 </div>
 
