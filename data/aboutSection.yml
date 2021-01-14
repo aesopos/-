@@ -1,15 +1,18 @@
+
+
 ---
 enable: true
-title: About us
-subtitle: 이솝이야기는
-
+topTitle: About us
+title: >
+  ## 이솝이야기는
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
 content: >
   ### 주식회사 이솝이야기는
 
   서대전 네거리역 3번 출구 도보 5분거리에 위치하고 있습니다.
   <br>
   대전 중구 계백로 1719, 센트리아 오피스텔 1203호
-
 button1Name: With Dreams
 button2Name: 회사소개서다운로드
 button1Target: contact
