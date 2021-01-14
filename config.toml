@@ -1,7 +1,7 @@
 baseURL = "https://aesopos.co.kr"
 languageCode = "en-us"
 paginate = 6
-theme = "이솝이야기"
+theme = "portio"
 title = "이솝이야기"
 [[menu.main]]
 name = "Contact"
