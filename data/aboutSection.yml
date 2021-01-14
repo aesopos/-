@@ -1,19 +1,18 @@
 ---
 enable: true
-title: About me
+title: About us
 subtitle:
 
-  #이솝이야기는
-  각 분야의 전문가들이 분석자료를 만들고, 그 자료를 토대로 완벽한 분석 및 진단을 합니다.
-  경영, 마케팅, 디자인 등 다방면에서 완벽한 솔루션을 제공합니다.
+  회사소개
 title2: 주식회사 이솝이야기는
 content: >
-  ### I design and build ultimate things.
+  ### 주식회사 이솝이야기는
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  서대전 네거리역 3번 출구 도보 5분거리에 위치하고 있습니다.
+  <br>
+  대전 중구 계백로 1719, 센트리아 오피스텔 1203호
+
+
 button1Name: With Dreams
 button2Name: 회사소개서다운로드
 button1Target: contact
