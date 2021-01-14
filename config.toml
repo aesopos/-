@@ -44,8 +44,8 @@ name = "Frequently Ask Question"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "회사소개"
-url = "회사소개"
+name = "sitemap"
+url = "#"
 weight = 1
 [params]
 blogPageURL = "blog"
@@ -56,10 +56,10 @@ formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "UA-156657834-1"
 logo = "images/site-navigation/logo.png"
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "대전 중구 계백로 1719, 센트리아오피스텔 1203호"
+email = "aesoposinc@gmail.com"
+openingHours = "평일 오전 9시 - 오후 6시"
+phone = "1600-5478"
 [params.map]
 APIkey = "https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places"
 latitude = "36.322181"
