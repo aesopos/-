@@ -1,9 +1,9 @@
 ---
-title: Recipe App Ux Study
+title: 씨즐씨푸드 홍보영상제작
 date: 2020-08-12T18:19:35.000+06:00
 thumbnail: "/uploads/success-story.jpg"
-service: UX Design, UX Research
-client: Clayton Coco
+service: Promotional Video
+client: 고객님
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
