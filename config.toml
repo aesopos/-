@@ -36,7 +36,7 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Aesopos Inc 2019"
 footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
+formspreeURL = "https://formspree.io/f/xaylakgn"
 googleAnalytics = "UA-156657834-1"
 logo = "images/site-navigation/logo.png"
 [params.address]
