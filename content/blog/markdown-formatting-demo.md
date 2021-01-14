@@ -1,10 +1,10 @@
 ---
-title: "Markdown Formatting Demo"
-date: 2020-09-13T12:49:27+06:00
+title: 씨즐씨푸드 로고제작기&매장준공과정
+date: 2020-09-13T12:49:27.000+06:00
 featureImage: images/allpost/allPost-6.jpg
 postImage: images/single-blog/feature-image.jpg
----
 
+---
 This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)
 
 ---
