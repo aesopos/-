@@ -50,7 +50,7 @@ weight = 1
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Aesopos Inc 2020"
+copyright = "All right reserved copyright © Aesopos Inc 2019"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "UA-156657834-1"
@@ -67,7 +67,7 @@ longitude = "127.410475"
 pinImage = "images/pin.png"
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/aesoposinc"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
