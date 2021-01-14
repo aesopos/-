@@ -1,9 +1,11 @@
 ---
 enable: true
 title: About us
+
+##이솝이야기는
 subtitle:
 
-  회사소개
+
 title2: 주식회사 이솝이야기는
 content: >
   ### 주식회사 이솝이야기는
