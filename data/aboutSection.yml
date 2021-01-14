@@ -2,9 +2,11 @@
 enable: true
 title: About me
 subtitle:
-  회사소개 주식회사 이솝이야기는 각 분야의 전문가들이 모여 만든
-  광고 / 마케팅 솔루션 회사로서영상광고, 시작디자인(BI/CI 등) 제작경영컨설팅(창업, 경영난해결 등) 전문회사입니다.
-title2: I design and build ultimate things.
+
+  #이솝이야기는
+  각 분야의 전문가들이 분석자료를 만들고, 그 자료를 토대로 완벽한 분석 및 진단을 합니다.
+경영, 마케팅, 디자인 등 다방면에서 완벽한 솔루션을 제공합니다.
+title2: 주식회사 이솝이야기는
 content: >
   ### I design and build ultimate things.
 
@@ -12,8 +14,8 @@ content: >
   to solve the design problem and find easy and better solutions to solve it. I always
   try my best to make good user interface with the best user experience. I have been
   working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+button1Name: With Dreams
+button2Name: 회사소개서다운로드
 button1Target: contact
 button2Target: contact
 image: images/about/about-img.jpg
