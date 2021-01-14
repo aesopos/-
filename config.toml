@@ -55,9 +55,9 @@ url = "https://www.facebook.com/aesoposinc"
 weight = 1
 [[params.social]]
 icon = "fa-youtube"
-url = "https://www.linkedin.com/"
+url = "https://www.youtube.com/channel/UCsQXmhPu_t332OTCVSQHYFg"
 weight = 2
 [[params.social]]
 icon = "fa-instagram"
-url = "https://www.pinterest.com/"
+url = "https://www.instagram.com/aesopinc/"
 weight = 3
