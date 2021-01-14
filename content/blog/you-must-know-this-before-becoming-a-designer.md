@@ -1,6 +1,6 @@
 ---
-title: You must know this before becoming a designer
-date: 2020-07-13T12:49:27.000+06:00
+title: 씨즐씨푸드 매장 준공 과정
+date: 2021-07-13T15:49:27+09:00
 featureImage: images/allpost/allPost-8.jpg
 postImage: images/single-blog/feature-image.jpg
 
