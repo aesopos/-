@@ -12,16 +12,16 @@ service:
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+    image: images/service/11@300x.png
   - content: >
       #### 경영컨설팅 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+    image: images/service/22@300x.png
   - content: >
       #### 홍보마케팅 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+    image: images/service/33@300x.png
