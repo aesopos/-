@@ -10,8 +10,8 @@ title: >
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: 진행 중
 tab2Name: 진행 완료
-tab1Target: 진행 중
-tab2Target: 진행 완료
+tab1Target: education
+tab2Target: experience
 
 education:
   - content: >
