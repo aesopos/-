@@ -58,7 +58,7 @@ logo = "images/site-navigation/logo.png"
 [params.address]
 address = "대전 중구 계백로 1719, 센트리아오피스텔 1203호"
 email = "aesoposinc@gmail.com"
-openingHours = "평일 오전 9시 - 오후 6시"
+openingHours = "평일 오전 9시 - 오후 6시   주말,공휴일 휴무"
 phone = "1600-5478"
 [params.map]
 APIkey = "https://maps.googleapis.com/maps/api/js?key=AIzaSyATccESqUYbZ4N7eCEaHjqifzQmwqF6nuU&libraries=places"
