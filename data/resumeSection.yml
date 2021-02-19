@@ -2,12 +2,12 @@
 enable: true
 topTitle: Obtain Order
 title: >
-  ## 이솝이야기 수주현황
+  ## 이솝이야기
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  주식회사 이솝이야기는 2019년 10월 설립되어<br>
+  현재까지 꾸준히 성장해오고 있으며,<br>
+  이솝이야기와 함께해 주시고, 함께 꿈꾸고 계신<br>
+  모든 분들에게 감사드립니다.
 tab1Name: 진행 중
 tab2Name: 진행 완료
 tab1Target: education
@@ -15,44 +15,27 @@ tab2Target: experience
 
 education:
   - content: >
-      #### 씨즐씨푸드 브랜딩
+      #### 씨즐(Seazle) 창업/종합 컨설팅
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+      2020. 10 창업 / 종합 컨설팅 수주<br>
+            11 창업관련 서류작업 진행 / 식품제조공장 공사 시작<br>
+            12 주요판매 품목 선정 및 제작 컨설팅 / 식품제조공장 인테리어 시작<br>
+      2021. 01 식품제조공장 공사완료 / HACCP 인증 시작<br>
+            02 제품영상 및 사진 촬영<br>
+               홍보영상 3식 완료(회사소개, 제품소개, 뷰티컷)
+               13개 이상 오픈마켓 등록 및 프로모션 진행
     time: 2020-2021
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
 
 experience:
   - content: >
-      #### 이승택치과의원 로고 제작 및 홍보영상 제작 
+      #### 공덕까페 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+      2020. 08 마케팅컨설팅 수주
+            09 Bi/Ci 제작, 판촉홍보물 제작
     time: 2020
   - content: >
-      #### Aperture Science 
+      #### 이승택 치과의원
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
-  - content: >
-      #### ACME Inc. 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      2020. 09 포트폴리오 제작 허가
+            10 치과소개영상 1식 제작 완료
+    time: 2020

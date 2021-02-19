@@ -2,26 +2,31 @@
 enable: true
 topTitle: Service
 title: >
-  ## 마케팅솔루션·영상제작사
+  ## 미디어컨텐츠(영상)제작·마케팅솔루션
 
+  전문가들이 모여 만드는 아름다운 영상미<br>
   모든 분야의 사업을 정확하게 판단하고 분석하여<br>
   최상의 선택을 하실 수 있게 도와드립니다.
 service:
   - content: >
-      #### 광고영상제작 
+      #### 미디어컨텐츠 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      전문가들이 모여 참신한 아이디어로<br>
+      고객이 원하는 최상의 결과물을<br>
+      제작하여 드립니다.
     image: images/service/11@300x.png
   - content: >
       #### 경영컨설팅 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      고객사의 문제점을 전문화된<br>
+      기술로 파악하여, 가장 빠르고<br>
+      능률적인 솔션을 제공합니다.<br>
+      (인사,노무,경영,재무 등)
     image: images/service/22@300x.png
   - content: >
       #### 홍보마케팅 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      회사, 제품, 인물 등 고객이 원하는<br>
+      모든 것에 대해 가장 효과적인<br>
+      홍보방법을 제안해 드립니다.
     image: images/service/33@300x.png
